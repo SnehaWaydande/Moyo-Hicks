@@ -1,5 +1,3 @@
-# moyosore-hicks-portfolio
-🚀 Moyosore Hicks | Senior Technical Product Management &amp; QA Portfolio. A collection of PRDs, technical specifications, and quality frameworks bridging the gap between business strategy and high-stakes engineering.
 # Moyosore Hicks | Senior Technical Product Manager & QA Engineer
 
 I am a hybrid Product Leader with over 5 years of experience, specialising in building and scaling complex software ecosystems. My unique background as a **Foundational QA Engineer** combined with **Senior Product Leadership** allows me to build products that are not just strategically aligned with business goals, but technically robust and user-centric.
@@ -16,7 +14,7 @@ I am a hybrid Product Leader with over 5 years of experience, specialising in bu
 - **Tools:** Jira, Figma, Mixpanel, Gainsight PX, GitHub, Trello.
 
 ---
-"I don't just ship features; I architect reliable business solutions."
+**I don't just ship features; I architect reliable business solutions.**
 
 ---
 ### ⚡ Offline "maroq"
