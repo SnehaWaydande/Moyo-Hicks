@@ -17,7 +17,7 @@ I am a hybrid Product Leader with over 5 years of experience, specialising in bu
 **I don't just ship features; I architect reliable business solutions.**
 
 ---
-### ⚡ Offline "maroq"
+### ⚡ Offline "Moyo Hicks"
 When I'm not breaking software or building products:
 
 * 🎧 **Hip-Hop Head:** Rap music is the soundtrack to my workflow.
